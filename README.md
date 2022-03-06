@@ -1,7 +1,7 @@
 # DS-Lab
 Different data structures using c programming language
 
-Experiment Lists:
+# Experiment Lists:
 5.Polynomial addition and multiplication using linked list
 
 6.Stack using 1D array
